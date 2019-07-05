@@ -10,7 +10,7 @@ exports.run = (client, message, args) => {
     "**Bot channels: **" + client.channels.size + "\n\n" +
     "**Created on** `discord.js`"
   var footer = 
-    "Created by 𝙟𝙖𝙧𝙫𝙞𝙨#8343"
+    "Created by GHILLITYNE GAMING#1017"
   
   var embed = new Discord.RichEmbed()
     .setColor(0xffffff)
